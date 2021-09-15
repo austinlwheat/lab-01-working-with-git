@@ -10,5 +10,4 @@
 
   The latter should be used if getting distances for ORDER BY.
 */
-
-select ...
+SELECT * FROM public.business_licenses
